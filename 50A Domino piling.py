@@ -1,5 +1,5 @@
 """
-50A - Domino piling
+50A -  Domino piling
 """
 import math
 m,n=map(int,input().split())
