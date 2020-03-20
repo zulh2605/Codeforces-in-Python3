@@ -1,3 +1,6 @@
+"""
+118A - String Task
+"""
 word=input().lower()
 answer=""
 
@@ -16,5 +19,11 @@ Codeforces
 
 aBAcAba
 .b.c.b
+
+potential best solution
+s=input().lower()
+for i in "aeiouy":
+    s = s.replace(i,"")
+print("."+".".join(s))
 """
 
