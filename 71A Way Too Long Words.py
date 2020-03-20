@@ -1,3 +1,6 @@
+"""
+71A - Way Too Long Words
+"""
 words=[]
 n=int(input())
 
